@@ -4,6 +4,8 @@
 
 - [vMaNGOS](https://github.com/vmangos/core)
 
+⚡ vMaNGOS world database (full): [Click](https://github.com/alexkulya/vm_db)
+
 ![alexkulya's github stats](https://github-readme-stats.vercel.app/api?username=alexkulya&show_icons=true&theme=dark&count_private=true&title_color=45cc06&icon_color=45cc06&hide=stars,contribs)
 
 <!--
