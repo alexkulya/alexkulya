@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
 
+- [SC](https://github.com/SC-Group)
 - [vMaNGOS](https://github.com/vmangos/core)
 
 ⚡ vMaNGOS world database (full): [Click](https://github.com/alexkulya/vm_db)
