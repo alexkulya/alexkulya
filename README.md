@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on:
 
-- [SC](https://github.com/SC-Group)
-- [vMaNGOS](https://github.com/vmangos/core)
-
-⚡ vMaNGOS world database (full): [Click](https://github.com/alexkulya/vm_db)
+- ✨ [SC](https://github.com/SC-Group)
+- ⚡ [vMaNGOS](https://github.com/vmangos/core)
+- 🌱 [Pandaria 5.4.8](https://github.com/alexkulya/pandaria_5.4.8)
 
 ![alexkulya's github stats](https://github-readme-stats.vercel.app/api?username=alexkulya&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06&hide=stars,contribs)
 
