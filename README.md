@@ -6,7 +6,7 @@
 - ⚡ [vMaNGOS](https://github.com/vmangos/core)
 - 🌱 [Pandaria 5.4.8](https://github.com/alexkulya/pandaria_5.4.8)
 
-![alexkulya's github stats](https://github-readme-stats.vercel.app/api?username=alexkulya&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06&hide=stars,contribs)
+![alexkulya's github stats](https://github-readme-stats.vercel.app/api?username=alexkulya&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkulya&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/alexkulya/github-readme-stats)
 
