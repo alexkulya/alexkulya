@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-<img align="right" width="525px" src="https://s2.loli.net/2024/08/10/JMq8RbCjsuQcpgh.jpg"/>
+<img align="right" width="375px" src="https://s2.loli.net/2024/08/10/JMq8RbCjsuQcpgh.jpg"/>
   
 - 🔭 I’m currently working on:
 
