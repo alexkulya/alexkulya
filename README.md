@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left">
+<img align="right" width="525px" src="https://s2.loli.net/2024/08/10/JMq8RbCjsuQcpgh.jpg"/>
+  
 - 🔭 I’m currently working on:
 
 - ✨ [SC](https://github.com/SC-Group)
@@ -12,7 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkulya&theme=dark&layout=compact&hide=roff,assembly,yacc,objective-c)](https://github.com/alexkulya/github-readme-stats)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=alexkulya" alt="alexkulya"/> </p>
+<img src="https://komarev.com/ghpvc/?username=alexkulya" alt="alexkulya"/>
+</p>
 
 <!--
 **alexkulya/alexkulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
