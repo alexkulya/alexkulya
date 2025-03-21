@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p align="left">
-<img align="right" width="305px" src="https://s2.loli.net/2024/08/10/JMq8RbCjsuQcpgh.jpg"/>
-  
 - 🔭 I’m currently working on:
 
 - ✨ [SC](https://github.com/SC-Group)
